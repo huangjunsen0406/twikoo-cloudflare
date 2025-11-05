@@ -18,3 +18,4 @@ R2_PUBLIC_URL = "https://twikoo.r2.junsen.online"
 
 [dev]
 port = 5000
+
